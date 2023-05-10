@@ -1,4 +1,3 @@
-````markdown
 # Power Analysis with Python
 
 This repository provides Python scripts to perform simple static power analysis. It is especially useful for determining the necessary sample size given a certain effect size, alpha level, and power. It can also be used to calculate the achieved power given effect size, sample size, and alpha level.
@@ -20,7 +19,6 @@ To clone the repository to your local machine, use:
 ```shell
 git clone https://github.com/franc703/static_power_analysis.git
 ```
-````
 
 Then, navigate to the project directory:
 
