@@ -1,5 +1,3 @@
-Sure, here's your revised `README.md`:
-
 ````markdown
 # Power Analysis with Python
 
@@ -79,5 +77,6 @@ Again, replace the values for `effect_size`, `alpha`, and `sample_size` with you
 - **Rodrigo Franco** - _Initial work_ - [franc703](https://github.com/franc703)
 
 ```
+
 
 ```
