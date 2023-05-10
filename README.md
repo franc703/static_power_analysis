@@ -73,8 +73,3 @@ Again, replace the values for `effect_size`, `alpha`, and `sample_size` with you
 ## Authors
 
 - **Rodrigo Franco** - _Initial work_ - [franc703](https://github.com/franc703)
-
-```
-
-
-```
